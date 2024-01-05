@@ -1,7 +1,7 @@
 -Desenvolvedor Front End
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css"></img>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,github,mysql,nextjs,ts"></img>
 </div>
 <br>
 
